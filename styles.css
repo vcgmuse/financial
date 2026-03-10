@@ -960,6 +960,7 @@
   padding: 0 1rem;
 }
 #hero .hero-banner-content {
+  gap: 1rem;
   padding: 0;
   max-width: 100%;
   width: 100%;
