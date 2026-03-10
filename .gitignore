@@ -39,3 +39,5 @@ logs
 *.ai
 *.sketch
 backup/
+echo "*.xcf" >> .gitignore
+echo "tesetStyle.css" >> .gitignore
